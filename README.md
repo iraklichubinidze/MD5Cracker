@@ -48,10 +48,6 @@ git clone https://github.com/iraklichubinidze/MD5Cracker.git
 ```
 
 
-### Creating A Pull Request
-
-
-
 ## Authors
 
 * **Irakli Chubinidze** - ** - [Irakli Chubinidze](https://github.com/iraklichubinidze/) - **
